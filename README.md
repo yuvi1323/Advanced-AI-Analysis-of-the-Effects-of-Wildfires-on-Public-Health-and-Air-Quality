@@ -1,4 +1,4 @@
-**Core Components**
+Core Components
 Fire Spread Prediction (CNN)
 - Input: Previous FireMask, Temperature, NDVI, Wind, Elevation, etc.
 - Output: Predicted FireMask for the next day
@@ -27,7 +27,7 @@ Sample Outputs
 - Folium-based interactive map of affected regions
 
 Tech Stack
-- Python 3.11**
+- Python 3.11
 - TensorFlow/Keras** – Deep Learning (CNN)
 - Pandas / NumPy** – Data Manipulation
 - Seaborn / Matplotlib** – Plotting
