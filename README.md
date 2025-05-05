@@ -28,10 +28,10 @@ Sample Outputs
 
 Tech Stack
 - Python 3.11
-- TensorFlow/Keras** – Deep Learning (CNN)
-- Pandas / NumPy** – Data Manipulation
-- Seaborn / Matplotlib** – Plotting
-- scikit-learn** – Regression and Classification
-- Folium** – Interactive map visualization
-- PyCharm** – IDE used on Mac M1
+- TensorFlow/Keras – Deep Learning (CNN)
+- Pandas / NumPy – Data Manipulation
+- Seaborn / Matplotlib – Plotting
+- scikit-learn – Regression and Classification
+- Folium – Interactive map visualization
+- PyCharm – IDE used on Mac M1
 - GitHub + Lucidchart – Version control and diagrams
